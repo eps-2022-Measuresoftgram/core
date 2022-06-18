@@ -30,3 +30,5 @@ flask-restful
 pandas
 tensorly
 requests
+
+gunicorn
